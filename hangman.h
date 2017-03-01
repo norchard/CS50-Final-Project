@@ -1,0 +1,1 @@
+int play_hangman (int infd, int outfd);
